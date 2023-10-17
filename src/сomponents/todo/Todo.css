@@ -1,0 +1,11 @@
+.todo-item {
+    display: flex;
+    align-items: center;
+    padding: 8px 0;
+  }
+  
+  .todo-item span {
+    margin-left: 10px;
+    font-size: 16px;
+  }
+  
