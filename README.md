@@ -43,3 +43,4 @@ Replace the placeholders like `[your repository link]` with the actual informati
 <img width="1490" alt="Снимок экрана 2023-10-17 в 22 09 28" src="https://github.com/antonhayabysa/maks-todo-manager/assets/83969662/eda8dc6f-5d6a-4b9c-880f-99b7c21effe2">
 
 
+<img width="1171" alt="Снимок экрана 2023-10-18 в 11 41 29" src="https://github.com/antonhayabysa/maks-todo-manager/assets/83969662/3d763e31-e5cc-48cd-aa45-9383b4b83ad3">
