@@ -11,12 +11,12 @@ function App() {
     fetch("https://jsonplaceholder.typicode.com/todos?_limit=10")
       .then((response) => {
         if (!response.ok) {
-          throw new Error("Ошибка при загрузке данных");
+          throw new Error("Error api");
         }
         return response.json();
       })
       .then((data) => setTodos(data))
-      .catch((error) => console.error("Ошибка: ", error.message));
+      .catch((error) => console.error("Error: ", error.message));
   }, []);
 
   const addTodo = () => {
